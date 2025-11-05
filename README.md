@@ -1,15 +1,13 @@
+## Notas al proyecto
+
 /*
   -- Ing. Alejandro Betancourth
   -- Email: alejandromym@utp.edu.co
   -- Cel. 3145716480
 */
-
-
 2. API PRUEBA TÉCNICA (Slim 4)
   ***************************
-
   Requisitos: PHP 8.x (XAMPP recomendado), Composer, MySQL / MariaDB
-
   Instalación:
   ***********
   1) Copiar la carpeta api_prueba_tecnica a C:\xampp\htdocs\api_prueba_tecnica
